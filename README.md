@@ -10,7 +10,7 @@ Nevora helps you seamlessly convert sales and returns data into Nevada chart for
 Built for engineers, analysts, and data scientists who want clean, analysis-ready data without the manual grind.
 
 ---
-
+[pyproject.toml](pyproject.toml)
 ## 🚀 Key Features
 - 📊 Nevada Chart Converter: Instantly pivot raw sales/returns into a professional Nevada matrix.
 - ⏳ Auto Time Bucketing: Monthly, quarterly, yearly — you choose.
